@@ -1,8 +1,13 @@
-# React + Vite
+# Overview
+>
+I did this weather app with reactjs,tailwindcss and vitejs.You can read more detail below
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React
+- Basic react concepts and hooks
+- Axios for api calls
 
-Currently, two official plugins are available:
+## Api 
+- I used [WeatherAPI.com](https://rapidapi.com/weatherapi/api/weatherapi-com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Style
+- Tailwindcss
